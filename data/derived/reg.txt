@@ -1,0 +1,12 @@
+	(1)
+VARIABLES	price_num
+	
+year	526.2***
+	(26.42)
+Constant	-1.050e+06***
+	(53,008)
+	
+Observations	429
+R-squared	0.482
+Standard errors in parentheses	
+*** p<0.01, ** p<0.05, * p<0.1	
